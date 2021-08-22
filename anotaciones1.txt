@@ -19,3 +19,16 @@ subir archivos a la zona de staging --> git add . (para todos los archivos) --> 
 empaquetar lo del STATING para subir --> git commit -m "mensaje"
 
 comparar archivos entre el ultimo commit y lo actual --> git diff
+
+eliminar archivo del STAGING --> git reset HEAD form.php
+
+deshacer commit y volver al anterior --> git checkout .
+
+historial de cambios --> git log
+
+regresar a una version especifica de commit --> git log (para buscar el hash del coomit al que queremos regresar. --> git checkout + hashDelCommitAlQueQueremosRegresar
+
+
+
+
+
