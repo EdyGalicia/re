@@ -40,5 +40,10 @@ ver en que grama estamos trabajando --> git branch
 
 cambiarse de rama --> git checkout nombreDeRamaACambiarse
 
+hacer merge a la master --> git merge nombreDeLaRamaAunirALaMaster
 
 eliminar rama --> git branch -d nombreDeRamaAEliminarse
+
+traer cambios --> git pull origin master
+
+
