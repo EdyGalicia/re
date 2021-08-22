@@ -29,6 +29,6 @@ historial de cambios --> git log
 regresar a una version especifica de commit --> git log (para buscar el hash del coomit al que queremos regresar. --> git checkout + hashDelCommitAlQueQueremosRegresar
 
 
-
+Sincronizar con repositorio de github --> git remote add origin + linkDelRepo --> git push -u origin main
 
 
