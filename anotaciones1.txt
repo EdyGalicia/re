@@ -39,3 +39,6 @@ CREACION DE RAMA --> git branch nombreRama
 ver en que grama estamos trabajando --> git branch
 
 cambiarse de rama --> git checkout nombreDeRamaACambiarse
+
+
+eliminar rama --> git branch -d nombreDeRamaAEliminarse
