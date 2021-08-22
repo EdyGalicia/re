@@ -1,0 +1,17 @@
+Estado WORKING DIRECTORY: Area de modificados. Archivos en mi computadora los cuales modifiqué y guardé.
+
+ESTADO STAGING AREA: Despues de tener un avane en mis archivos, debo mandarlos a este estado. (add)
+
+ESTADO .git DIRECTORY (REPOSITORY): Al ya tener todas las modificaciones en el area de STAGING, debemos pasarlos al area de confirmados. (commit)
+
+mkdir
+
+ctr l para limpiar
+touch crear archivo
+mkdir crear carpeta
+
+Inicializar repositorio local --> git init
+
+ver estado de archivos --> git status
+
+subir archivos a la zona de staging --> git add . (para todos los archivos) --> git add + nombreArchivo
