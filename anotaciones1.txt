@@ -32,3 +32,10 @@ regresar a una version especifica de commit --> git log (para buscar el hash del
 Sincronizar con repositorio de github --> git remote add origin + linkDelRepo --> git push -u origin main
 
 
+
+
+CREACION DE RAMA --> git branch nombreRama
+
+ver en que grama estamos trabajando --> git branch
+
+cambiarse de rama --> git checkout nombreDeRamaACambiarse
