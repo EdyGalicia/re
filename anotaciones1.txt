@@ -15,3 +15,7 @@ Inicializar repositorio local --> git init
 ver estado de archivos --> git status
 
 subir archivos a la zona de staging --> git add . (para todos los archivos) --> git add + nombreArchivo
+
+empaquetar lo del STATING para subir --> git commit -m "mensaje"
+
+comparar archivos entre el ultimo commit y lo actual --> git diff
